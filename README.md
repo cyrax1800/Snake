@@ -1,5 +1,5 @@
 # Snake
- Final Project Android Studio.(Snake Game)
+ Final Project Android Studio.(Snake Game) \n
  Created By:
  -Michael (131111718)
  -Adeline Rosabella (13111)
