@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="settingSound">Sound</string>
+    <string name="settingMusic">Music</string>
+    <string name="highScore">HighScore</string>
+    <string name="settingFileName">Snake_Config</string>
+</resources>
